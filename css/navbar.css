@@ -1,0 +1,24 @@
+.navbar{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    padding: 12px 24px;
+    position: fixed;
+    width: 100%;
+}
+
+.nav-item{
+    color: #fff;
+    padding: 12px 24px;
+    text-decoration: none;
+    font-size: 15px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+.nav-item:hover {
+    background-color: #ffffff;
+    color: #000;
+}

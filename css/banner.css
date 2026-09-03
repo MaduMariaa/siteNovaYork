@@ -1,0 +1,13 @@
+.hero{
+    background: url(../imagens/photo\ \(1\).avif) no-repeat center;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-caption{
+    color: #fff;
+    text-align: center;
+}
